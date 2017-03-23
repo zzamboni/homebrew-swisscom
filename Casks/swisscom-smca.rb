@@ -4,7 +4,7 @@ cask 'swisscom-smca' do
 
   url 'https://github.com/zzamboni/homebrew-swisscom/raw/master/resources/swisscom-smca-ssb.dmg'
   name 'Swisscom SMCA site-specific browser'
-  homepage 'https://gitlab.swisscloud.io/zzamboni/homebrew-swisscom'
+  homepage 'https://github.com/zzamboni/homebrew-swisscom'
 
   app 'Swisscom SMCA.app'
 end

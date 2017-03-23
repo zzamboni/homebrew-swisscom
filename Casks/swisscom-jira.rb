@@ -4,7 +4,7 @@ cask 'swisscom-jira' do
 
   url 'https://github.com/zzamboni/homebrew-swisscom/raw/master/resources/swisscom-jira-ssb.dmg'
   name 'Swisscom Jira site-specific browser'
-  homepage 'https://gitlab.swisscloud.io/zzamboni/homebrew-swisscom'
+  homepage 'https://github.com/zzamboni/homebrew-swisscom'
 
   app 'Swisscom Jira.app'
 end

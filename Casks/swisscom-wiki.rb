@@ -4,7 +4,7 @@ cask 'swisscom-wiki' do
 
   url 'https://github.com/zzamboni/homebrew-swisscom/raw/master/resources/swisscom-wiki-ssb.dmg'
   name 'Swisscom Wiki site-specific browser'
-  homepage 'https://gitlab.swisscloud.io/zzamboni/homebrew-swisscom'
+  homepage 'https://github.com/zzamboni/homebrew-swisscom'
 
   app 'Swisscom Wiki.app'
 end

@@ -4,7 +4,7 @@ cask 'swisscom-twp' do
 
   url 'https://github.com/zzamboni/homebrew-swisscom/raw/master/resources/swisscom-twp-ssb.dmg'
   name 'Swisscom TWP site-specific browser'
-  homepage 'https://gitlab.swisscloud.io/zzamboni/homebrew-swisscom'
+  homepage 'https://github.com/zzamboni/homebrew-swisscom'
 
   app 'Swisscom TWP.app'
 end
